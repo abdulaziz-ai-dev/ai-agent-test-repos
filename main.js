@@ -7,5 +7,5 @@ function login(user, password) {
 
 console.log(login("admin", "1234"));
 
-// AI agent test change
+// TODO: add authorization check
 
