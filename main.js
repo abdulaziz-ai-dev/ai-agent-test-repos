@@ -6,6 +6,7 @@ function deleteUser(userId) {
 function addUser(userName, userId){
  
     // TODO: add user addition
+    // new feature: add payment system
     return true;
 
 }
