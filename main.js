@@ -6,5 +6,5 @@ function login(user, password) {
 }
 
 console.log(login("admin", "1234"));
-
+ 
 // TODO: add authorization check 
