@@ -1,10 +1,5 @@
-function login(user, password) {
-    if (user == "admin" && password == "1234") {
-        return true;
-    }
-    return false;
+function deleteUser(userId) {
+    // TODO: add authorization check
+    // TODO: validate input
+    return true;
 }
-
-console.log(login("admin", "1234"));
- 
-// TODO: add authorization check
